@@ -25,3 +25,21 @@ A aplicação permite:
 - Exibir o resultado na tela
 
 ![Demo do Projeto](./public/chrome_RRDGnirSDt.gif)
+
+
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
+
+- Uso de **useState** no React
+- Manipulação de eventos
+- Componentes funcionais
+- Estruturação de layout com **Flexbox**
+- Estilização com CSS
+- Tipagem com **TypeScript**
+
+---
+
+
