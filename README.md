@@ -23,3 +23,5 @@ A aplicação permite:
 - Inserir o **ano de nascimento**
 - Calcular automaticamente a **idade atual**
 - Exibir o resultado na tela
+
+![Demo do Projeto](./public/chrome_RRDGnirSDt.gif)
